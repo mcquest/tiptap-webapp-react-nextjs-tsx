@@ -10,7 +10,7 @@ https://tiptap.dev/docs/editor/api/extensions/bubble-menu,
 Environment:
 
 -Install nextjs-
-> npx create-next-app@latest
+> npm install next@latest react@latest react-dom@latest
 
 -Install dependencies-
 > npm install @tiptap/core @tiptap/starter-kit @tiptap/react @tiptap/extension-color
