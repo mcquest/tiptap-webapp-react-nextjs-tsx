@@ -3,9 +3,9 @@ This is a TipTap Web App created using TypeScript, Nextjs, & React
 Crafted for the Interactive Article v2.pdf Uplimit Challenge
 
 Code Reference
-https://github.com/ueberdosis/tiptap?tab=readme-ov-file
-https://codesandbox.io/p/devbox/editor-forked-6c7n76?file=%2Fsrc%2Findex.js
-https://tiptap.dev/docs/editor/api/extensions/bubble-menu
+https://github.com/ueberdosis/tiptap?tab=readme-ov-file,
+https://codesandbox.io/p/devbox/editor-forked-6c7n76?file=%2Fsrc%2Findex.js,
+https://tiptap.dev/docs/editor/api/extensions/bubble-menu,
 
 Environment:
 
